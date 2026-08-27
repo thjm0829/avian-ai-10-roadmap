@@ -232,7 +232,7 @@ Gate 2 통과조건:
 - 1 Sampling Point / 1 Analysis Unit 통합 시제품
 - Sampling Unit·Analysis Unit Preliminary CAD
 - 일회용 Wet Zone 시제품과 교체절차
-- Camera C/T 판독 프로토타입
+- Camera C선·T선 판독 프로토타입
 - Mock 검사 데이터 생성기
 - Rule-Based Risk Engine과 자동재검
 - 농장·공공·운영자 Dashboard
